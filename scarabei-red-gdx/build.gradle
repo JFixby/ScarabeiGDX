@@ -1,8 +1,11 @@
+
 sourceCompatibility = 1.6
 
 dependencies {
     compile "com.github.Scarabei.ScarabeiAPI:scarabei-api:$scarabeiAPILevel"
+
     compile "com.github.Scarabei.ScarabeiRed:scarabei-red:$scarabeiRedVersion"
+
 
     compile "com.badlogicgames.gdx:gdx:1.9.6"
 

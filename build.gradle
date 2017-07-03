@@ -11,8 +11,6 @@ buildscript {
 ext {
         scarabeiAPILevel = "F.2"
         scarabeiRedVersion = "F.2.0"
-        
-                           
 }
 
 
